@@ -1,0 +1,16 @@
+{
+  "name": "100saco_webscrapper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "webscrapper.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fetch-sync": "^2.0.0",
+    "jsdom": "^16.5.3",
+    "node-fetch": "^2.6.1"
+  }
+}
